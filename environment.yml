@@ -1,0 +1,15 @@
+name: CLAC
+channels:
+ - defaults
+ - conda-forge
+dependencies:
+ - python=3.8
+ - numpy
+ - pandas
+ - scipy
+ - matplotlib
+ - seaborn
+ - scikit-learn
+ - ipykernel
+ - xgboost
+ - imbalanced-learn

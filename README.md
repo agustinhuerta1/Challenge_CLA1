@@ -1,5 +1,5 @@
 # Challenge CLA
-
+![alt text](https://intranet.ind.cl/wp-content/uploads/2023/09/Logotipo_Caja_Los_Andes.svg.png)
 In this repository, I provide my solution to the proposed problem, option 1. In the 'notebooks' section, you can find 'test_notebook_smote_CLA.ipynb,' which is the Jupyter notebook used. With 'environment.yml,' you can create a Conda environment to compile all the cells without any issues. All documents are in English for the author’s convenience.
 
 # Source
@@ -8,7 +8,7 @@ In this repository, I provide my solution to the proposed problem, option 1. In 
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-![alt text](https://intranet.ind.cl/wp-content/uploads/2023/09/Logotipo_Caja_Los_Andes.svg.png)
+
 
 ## Project Organization
 

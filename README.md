@@ -1,4 +1,4 @@
-# Challenge CLA
+# Classificartion for imbalanced data
 
 In this repository, I provide my solution to the proposed problem, option 1. In the 'notebooks' section, you can find 'test_notebook_smote_CLA.ipynb,' which is the Jupyter notebook used. With 'environment.yml,' you can create a Conda environment to compile all the cells without any issues. All documents are in English for the author’s convenience.
 
